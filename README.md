@@ -1,3 +1,8 @@
 # Optimisez la gestion des données d'une boutique avec Python
-## Scénario
-Aujourd’hui est un grand jour, vous commencez votre mission en tant que data analyst freelance chez BottleNeck, un marchand de vin très prestigieux. Votre manager sur cette mission (Laurent) vous accueille chaleureusement et vous propose de partager un petit café avec le reste de l’équipe du service Numérique. L’ambiance est bonne, et vous voilà déjà parfaitement intégré dans cette équipe détendue mais professionnelle.
+## Livrable 
+Le notebook R Markdown ou Jupyter.
+
+## Compétences évaluées
+- Réaliser une analyse univariée pour interpréter des données
+- Classifier différents types de données
+- Gérer les erreurs et les incohérences présentes sur des données stockées
